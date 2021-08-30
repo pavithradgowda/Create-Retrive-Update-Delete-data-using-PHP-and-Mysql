@@ -1,1 +1,1 @@
-# Create-Retrive-Update-Delete-data-using-PHP-and-Mysql
+# Create-Retrieve-Update-Delete-Application-using-PHP-and-Mysql
